@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @micaDev30
+- 👋 Hi, I’m @nagaDev
 - 👀 I’m interested in technology
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on knowledge and learning
